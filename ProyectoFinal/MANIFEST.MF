@@ -1,0 +1,4 @@
+Manifiest-Version: 1.0
+Created_By: Tissone Mauro
+Main-Class: Bienvenida
+X-COMMENT: Curso Java
